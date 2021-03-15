@@ -35,7 +35,7 @@ The application we will create during the project build series is a "Syllabus Sh
 
 **NOTE**: Remember to _**VERTICALLY**_ build your MVP! This means building out one model/feature at a time. DO NOT build out all the models and controllers at the same time. This is the easiest way to get lost in your project very early. Read more about this [here](https://github.com/learn-co-students/js-spa-project-instructions-online-web-sp-000/blob/master/project-planning-tips.md#build-vertically-not-horizontallys).
 
-- [] 8. Build your models
+- [] 8. Build your models: `rails g model Post title content`
 Migrations
 Model classes
 Associations

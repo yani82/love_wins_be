@@ -38,6 +38,5 @@ Post.create(title: "The International Resecue Committee", content: "Everybody sh
 
 Post.create(title: "American Civil Liberties Union, content: "Protect peoples civil rights and liberties", image_url: "https://www.aclusocal.org/sites/default/files/styles/homepage_carousel_wide_580x304/public/field_image/web15-siteimages-clrp.jpg?itok=_UjZwxtR", user_id: Aaliyah.id)
 
-# 50:41 
 
 ``` 

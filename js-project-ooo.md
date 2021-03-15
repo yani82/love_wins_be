@@ -42,6 +42,7 @@ The application we will create during the project build series is a "Syllabus Sh
 - [] 9. Test your models and associations in the console
   - Create some seed data
   - Adjust migrations as needed
+<!-- on that last Post.create, it’s missing ” at end of title. - rollback - remigrate -->
 
 ### PART 2: Routes, Controllers, Serializers
 - [] 1. Name spaced routes

@@ -6,6 +6,9 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
+# User.destroy_all 
+# Post.destroy_all 
+
 Mariah = User.create(name: "Mariah")
 Whitney = User.create(name: "Whitney") 
 Aaliyah = User.create(name: "Aaliyah") 

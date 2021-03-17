@@ -3,8 +3,15 @@ class Api::V1::PostsController < ApplicationController
 
     def index 
         posts = Post.all 
-        render json: posts 
+        # render json: posts 
+        render json: PostSerializer.new(posts)
+        # options = {
+        #     # include associated user 
+        #     include: [:user]
+        # }
         # do not need instance variable because of fetch request 
+        #  to add a relationship in serializer 
+        # render json: PostSerializer.new(posts, options)
     end 
 
     def create 

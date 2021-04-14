@@ -18,12 +18,11 @@ $ rake db:seed
 $ rails s
 ```
 4. Navigate to the frontend directory and run:
-# Requirements
 https://github.com/sgrant0225/kitchen_alchemist_frontend.git
 ```
 open index.html
 ```
-5. Create a post by filling the 
+5. Create a post by filling in the 
 ## Title 
 ## Content 
 ## Image URL 

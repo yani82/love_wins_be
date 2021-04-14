@@ -11,7 +11,8 @@ class Api::V1::PostsController < ApplicationController
         # }
         # do not need instance variable because of fetch request 
         #  to add a relationship in serializer 
-        # render json: PostSerializer.new(posts, options)
+        # render json: PostSerializer.new(posts, options) 
+        # http://localhost:3000/api/v1/posts
     end 
 
     def create 

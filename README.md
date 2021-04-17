@@ -18,7 +18,7 @@ $ rake db:seed
 $ rails s
 ```
 4. Navigate to the frontend directory and run:
-https://github.com/sgrant0225/kitchen_alchemist_frontend.git
+https://github.com/yani82/love_wins_fe
 ```
 open index.html
 ```
